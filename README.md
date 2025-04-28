@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ZoranMaricic
 - 👀 I’m interested in Books, Movies, Series, Games.
-- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on all the projects you have
 - 📫 How to reach me zoranmaricic977@gmail.com
 
